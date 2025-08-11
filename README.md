@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Faheem</h1>
-<h3 align="center">A Passionate Front-End Developer | MERN Stack Learner</h3>
+<h3 align="center">🚀 MERN Stack Developer | Frontend Specialist</h3>
 
 <p align="center">
   <a href="https://usama-faheem-portfolio.netlify.app/" target="_blank">🌐 Portfolio</a> • 
@@ -9,36 +9,46 @@
 
 ---
 
-### 💻 Technologies I Work With:
-- ✅ HTML5, CSS3, JavaScript
-- 🎨 Bootstrap, Tailwind CSS
-- ⚛️ React JS, Next.js (Learning)
-- 🛠️ Git & GitHub
-- 🌐 APIs and Responsive Web Design
-- 🚀 Backend (Learning): Node.js, Express.js, MongoDB
+## 🛠 Tech Stack
+- **Frontend:** HTML5 | CSS3 | JavaScript | React.js | Next.js
+- **Styling:** Tailwind CSS | Bootstrap | Responsive Web Design
+- **Backend:** Node.js | Express.js | MongoDB
+- **Tools:** Git | GitHub | Firebase | VS Code
+- **Other Skills:** REST APIs | Authentication | Deployment (Netlify, Vercel)
 
 ---
 
-### 📈 GitHub Stats:
-
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usamafaheem02code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamafaheem02code&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamafaheem02code&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌱 Currently Learning:
-- Backend with Node.js, Express, and MongoDB
-- Advanced React Patterns & Next.js
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usamafaheem02code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
 
 ---
 
-### ✨ About Me:
-> I’m a creative developer who turns design ideas into modern, responsive, and user-friendly websites. Always eager to learn and grow in the MERN stack journey.
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/usamafaheem02code/usamafaheem02code/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-### 📬 Contact Me:
-- 📧 **Email**: usamafaheem3157@gmail.com  
-- 💼 **LinkedIn**: [Usama Faheem](https://www.linkedin.com/in/usama-faheem/)  
-- 🌐 **Portfolio**: [usama-faheem-portfolio.netlify.app](https://usama-faheem-portfolio.netlify.app/)
+## 🌱 Current Focus
+- Building advanced MERN stack applications
+- Exploring Next.js & server-side rendering
+- Improving backend API security
+
+---
+
+## 📬 Connect With Me
+- 📧 **Email:** usamafaheem3157@gmail.com  
+- 💼 **LinkedIn:** [Usama Faheem](https://www.linkedin.com/in/usama-faheem/)  
+- 🌐 **Portfolio:** [usama-faheem-portfolio.netlify.app](https://usama-faheem-portfolio.netlify.app/)
