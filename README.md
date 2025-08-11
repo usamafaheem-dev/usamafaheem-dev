@@ -24,7 +24,7 @@
 ---
 
 ### 🐍 Contribution Snake:
-![Snake animation](https://github.com/usamafaheem-dev/usamafaheem-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/usamafaheem-dev/usamafaheem-dev/blob/output/snake.svg)
 
 ---
 
