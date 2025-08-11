@@ -23,10 +23,7 @@
 
 ---
 
-### 🐍 Contribution Snake:
-![Snake animation](https://github.com/usamafaheem-dev/usamafaheem-dev/blob/output/snake.svg)
 
----
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamafaheem-dev)
