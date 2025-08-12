@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **MERN Stack Projects**
 - 🌱 Learning **Advanced Backend & Security**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me at: **usamafaheem.dev@gmail.com**
+- 📫 Reach me at: **usamafaheem3157@gmail.com**
 
 ---
 
