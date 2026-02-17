@@ -60,7 +60,8 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usamafaheem-dev&theme=radical&no-frame=true&row=1&column=7" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usamafaheem-dev&layout=compact&theme=radical" />
+
 </p>
 
 ---
