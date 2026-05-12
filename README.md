@@ -41,15 +41,6 @@ Main ek **Next.js Developer** hoon jo boring websites ko high-performance applic
 
 ---
 
-### 💻 Featured Projects 
-
-| Project | Tech Stack | Status |
-| :--- | :--- | :--- |
-| **Tekrivo Core** | Next.js, Redux, Node.js | 🚀 Live |
-| **AI Water Quality App** | React Native, Python, ML | 🧪 In Development |
-| **Custom IDE** | Electron.js, Monaco Editor | 🛠️ Prototyping |
-
----
 
 ### 🤝 Connect & Collaborate
 <p align="left">
