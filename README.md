@@ -23,7 +23,7 @@ Main ek **Next.js Developer** hoon jo boring websites ko high-performance applic
 ### 🛠️ Tech Stack 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,tailwind,nodejs,express,mongodb,mysql,git,vercel,docker,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,tailwind,nodejs,express,mongodb,mysql,git,vercel,postman" />
 </p>
 
 ---
