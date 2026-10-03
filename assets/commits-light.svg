@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="330" viewBox="0 0 1180 330" role="img" aria-labelledby="title desc"><title id="title">Recent public commits</title><desc id="desc">Latest indexed authored commits, showing SHA, message, repository and date.</desc>
+<rect x="1" y="1" width="1178" height="328" rx="20" fill="#FFFFFF" stroke="#D7E2CD"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="28" y="36" fill="#466E0C" font-size="11" font-weight="700" letter-spacing="2">RECENT PUBLIC COMMITS</text>
+<text x="28" y="61" fill="#596C50" font-size="12" font-weight="400">Latest authored commits indexed by GitHub · newest first</text>
+<text x="28" y="100" fill="#466E0C" font-size="12" font-weight="700">f7ac468</text>
+<text x="119" y="100" fill="#1B2817" font-size="13" font-weight="400">Add files via upload</text>
+<text x="119" y="116" fill="#596C50" font-size="11" font-weight="400">usamafaheem-dev</text>
+<text x="1050" y="100" fill="#596C50" font-size="11" font-weight="400">2026-10-02</text>
+<path d="M28 115H1152" stroke="#D7E2CD"/>
+<text x="28" y="143" fill="#466E0C" font-size="12" font-weight="700">c8c655a</text>
+<text x="119" y="143" fill="#1B2817" font-size="13" font-weight="400">Update README.md</text>
+<text x="119" y="159" fill="#596C50" font-size="11" font-weight="400">usamafaheem-dev</text>
+<text x="1050" y="143" fill="#596C50" font-size="11" font-weight="400">2026-10-02</text>
+<path d="M28 158H1152" stroke="#D7E2CD"/>
+<text x="28" y="186" fill="#466E0C" font-size="12" font-weight="700">24d9172</text>
+<text x="119" y="186" fill="#1B2817" font-size="13" font-weight="400">first commit</text>
+<text x="119" y="202" fill="#596C50" font-size="11" font-weight="400">Client-Portfolio</text>
+<text x="1050" y="186" fill="#596C50" font-size="11" font-weight="400">2026-09-17</text>
+<path d="M28 201H1152" stroke="#D7E2CD"/>
+<text x="28" y="229" fill="#466E0C" font-size="12" font-weight="700">fd01b8b</text>
+<text x="119" y="229" fill="#1B2817" font-size="13" font-weight="400">Add automated programmatic click triggers for anthem button on load,</text>
+<text x="119" y="245" fill="#596C50" font-size="11" font-weight="400">Pakistan_ZIndabad-Website</text>
+<text x="1050" y="229" fill="#596C50" font-size="11" font-weight="400">2026-08-14</text>
+<path d="M28 244H1152" stroke="#D7E2CD"/>
+<text x="28" y="272" fill="#466E0C" font-size="12" font-weight="700">e6b6144</text>
+<text x="119" y="272" fill="#1B2817" font-size="13" font-weight="400">Optimize and trim national_anthem.mp3 to 4.4MB starting instantly at</text>
+<text x="119" y="288" fill="#596C50" font-size="11" font-weight="400">Pakistan_ZIndabad-Website</text>
+<text x="1050" y="272" fill="#596C50" font-size="11" font-weight="400">2026-08-14</text>
+</g></svg>

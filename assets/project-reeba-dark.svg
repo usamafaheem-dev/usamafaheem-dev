@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="285" viewBox="0 0 570 285" role="img" aria-labelledby="title"><title id="title">Reeba</title><rect x="1" y="1" width="568" height="283" rx="20" fill="#0C1118" stroke="#273744"/><g font-family="Segoe UI,Arial,sans-serif">
+<text x="24" y="31" fill="#C7F52B" font-size="10" font-weight="700">04 / PORTFOLIO + APPLICATION</text>
+<rect x="24" y="48" width="522" height="117" rx="12" fill="#141D26" stroke="#273744"/>
+<circle cx="38" cy="61" r="2.8" fill="#9AAEBE" opacity=".65"/>
+<circle cx="49" cy="61" r="2.8" fill="#9AAEBE" opacity=".65"/>
+<circle cx="60" cy="61" r="2.8" fill="#9AAEBE" opacity=".65"/>
+<path d="M24 72H546" stroke="#273744"/>
+<rect x="42" y="86" width="239" height="65" rx="8" fill="#0C1118"/><rect x="298" y="86" width="229" height="65" rx="8" fill="#0C1118"/>
+<text x="55" y="106" fill="#C7F52B" font-size="9" font-weight="700">ASK / CONNECT / EXPLORE</text>
+<text x="55" y="127" fill="#F4F7FA" font-size="12" font-weight="400">How can I help you?</text>
+<text x="312" y="106" fill="#C7F52B" font-size="9" font-weight="700">LEAD MANAGEMENT</text>
+<path d="M312 119H510" stroke="#273744" stroke-width="3"/>
+<path d="M312 132H510" stroke="#273744" stroke-width="3"/>
+<path d="M312 144H510" stroke="#273744" stroke-width="3"/>
+<text x="24" y="199" fill="#F4F7FA" font-size="23" font-weight="700">Reeba</text>
+<text x="24" y="226" fill="#C7F52B" font-size="12" font-weight="400">Next.js · Supabase · AI Integration</text>
+<text x="24" y="251" fill="#9AAEBE" font-size="11" font-weight="400">AI enquiries, lead collection and admin tools.</text>
+</g></svg>

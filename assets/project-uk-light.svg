@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="285" viewBox="0 0 570 285" role="img" aria-labelledby="title"><title id="title">Three service businesses</title><rect x="1" y="1" width="568" height="283" rx="20" fill="#FFFFFF" stroke="#D7E2CD"/><g font-family="Segoe UI,Arial,sans-serif">
+<text x="24" y="31" fill="#466E0C" font-size="10" font-weight="700">02 / UK CLIENT WORK</text>
+<rect x="24" y="48" width="522" height="117" rx="12" fill="#F3F7EC" stroke="#D7E2CD"/>
+<circle cx="38" cy="61" r="2.8" fill="#596C50" opacity=".65"/>
+<circle cx="49" cy="61" r="2.8" fill="#596C50" opacity=".65"/>
+<circle cx="60" cy="61" r="2.8" fill="#596C50" opacity=".65"/>
+<path d="M24 72H546" stroke="#D7E2CD"/>
+<rect x="43" y="89" width="150" height="60" rx="8" fill="#FFFFFF" stroke="#D7E2CD"/>
+<text x="55" y="108" fill="#466E0C" font-size="9" font-weight="700">REMOVALS</text>
+<text x="55" y="126" fill="#596C50" font-size="9" font-weight="400">Services / coverage</text>
+<rect x="55" y="135" width="67" height="5" rx="2" fill="#466E0C" opacity=".7"/>
+<rect x="208" y="89" width="150" height="60" rx="8" fill="#FFFFFF" stroke="#D7E2CD"/>
+<text x="220" y="108" fill="#466E0C" font-size="9" font-weight="700">CLEANING</text>
+<text x="220" y="126" fill="#596C50" font-size="9" font-weight="400">Services / coverage</text>
+<rect x="220" y="135" width="67" height="5" rx="2" fill="#466E0C" opacity=".7"/>
+<rect x="373" y="89" width="150" height="60" rx="8" fill="#FFFFFF" stroke="#D7E2CD"/>
+<text x="385" y="108" fill="#466E0C" font-size="9" font-weight="700">PROPERTY</text>
+<text x="385" y="126" fill="#596C50" font-size="9" font-weight="400">Services / coverage</text>
+<rect x="385" y="135" width="67" height="5" rx="2" fill="#466E0C" opacity=".7"/>
+<text x="24" y="199" fill="#1B2817" font-size="23" font-weight="700">Three service businesses</text>
+<text x="24" y="226" fill="#466E0C" font-size="12" font-weight="400">Next.js · Redux · Responsive UI</text>
+<text x="24" y="251" fill="#596C50" font-size="11" font-weight="400">GM MZ Removals · MZ Cleaners · MZ Works</text>
+</g></svg>

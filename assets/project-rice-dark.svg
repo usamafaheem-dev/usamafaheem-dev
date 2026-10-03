@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="285" viewBox="0 0 570 285" role="img" aria-labelledby="title"><title id="title">Shadab Rice</title><rect x="1" y="1" width="568" height="283" rx="20" fill="#0C1118" stroke="#273744"/><g font-family="Segoe UI,Arial,sans-serif">
+<text x="24" y="31" fill="#C7F52B" font-size="10" font-weight="700">03 / E-COMMERCE FRONTEND</text>
+<rect x="24" y="48" width="522" height="117" rx="12" fill="#141D26" stroke="#273744"/>
+<circle cx="38" cy="61" r="2.8" fill="#9AAEBE" opacity=".65"/>
+<circle cx="49" cy="61" r="2.8" fill="#9AAEBE" opacity=".65"/>
+<circle cx="60" cy="61" r="2.8" fill="#9AAEBE" opacity=".65"/>
+<path d="M24 72H546" stroke="#273744"/>
+<rect x="43" y="87" width="145" height="66" rx="7" fill="#0C1118" stroke="#273744"/><path d="M57 103h20l3 31h-26z" fill="#C7F52B" opacity=".7"/>
+<text x="93" y="109" fill="#F4F7FA" font-size="9" font-weight="700">PRODUCT</text>
+<text x="93" y="125" fill="#9AAEBE" font-size="8" font-weight="400">Quantity  −  1  +</text>
+<rect x="93" y="133" width="75" height="7" rx="3" fill="#C7F52B"/>
+<rect x="209" y="87" width="145" height="66" rx="7" fill="#0C1118" stroke="#273744"/><path d="M223 103h20l3 31h-26z" fill="#C7F52B" opacity=".7"/>
+<text x="259" y="109" fill="#F4F7FA" font-size="9" font-weight="700">PRODUCT</text>
+<text x="259" y="125" fill="#9AAEBE" font-size="8" font-weight="400">Quantity  −  1  +</text>
+<rect x="259" y="133" width="75" height="7" rx="3" fill="#C7F52B"/>
+<rect x="375" y="87" width="145" height="66" rx="7" fill="#0C1118" stroke="#273744"/><path d="M389 103h20l3 31h-26z" fill="#C7F52B" opacity=".7"/>
+<text x="425" y="109" fill="#F4F7FA" font-size="9" font-weight="700">PRODUCT</text>
+<text x="425" y="125" fill="#9AAEBE" font-size="8" font-weight="400">Quantity  −  1  +</text>
+<rect x="425" y="133" width="75" height="7" rx="3" fill="#C7F52B"/>
+<text x="24" y="199" fill="#F4F7FA" font-size="23" font-weight="700">Shadab Rice</text>
+<text x="24" y="226" fill="#C7F52B" font-size="12" font-weight="400">React · Product UI · WhatsApp ordering</text>
+<text x="24" y="251" fill="#9AAEBE" font-size="11" font-weight="400">Product browsing, quantity selection and bundles.</text>
+</g></svg>
