@@ -1,6 +1,8 @@
+<a name="home"></a>
+
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
-  <img src="./assets/hero-static.png" width="1180" alt="Usama Faheem, frontend-focused MERN stack developer. Rounded lime editorial hero with floating React and code badges.">
+  <img src="./assets/hero-animated.gif" width="1180" alt="Usama Faheem, frontend-focused MERN stack developer. Rounded lime editorial hero with floating React and code badges.">
 </picture>
 
 <p align="center">
@@ -42,10 +44,7 @@ I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakis
 <table>
 <tr>
 <td width="50%">
-  <img src="./assets/project-softcr8ors.jpg" width="570" alt="SoftCr8ors official company website, showing the actual pastel hero and service website design.">
-<a href="https://softcr8ors.com/">
-
-</a>
+<img src="./assets/project-softcr8ors.jpg" width="570" alt="SoftCr8ors official company website, showing the actual pastel hero and service website design.">
 <p>Company services website with responsive sections, 3D interactions and a contact API. Worked on loading speed and animation performance.</p>
 <p align="center"><a href="https://softcr8ors.com/"><img src="./assets/view-website.svg" width="180" height="40" alt="View SoftCr8ors website"></a></p>
 </td>
@@ -57,16 +56,12 @@ I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakis
 </tr>
 <tr>
 <td width="50%">
-<a href="https://shadabrice.pk/">
 <img src="./assets/project-rice.jpg" width="570" alt="Shadab Rice's actual product hero, shop navigation and WhatsApp ordering website.">
-</a>
 <p>React frontend built during my internship, with product pages, quantity selection, bundle offers and WhatsApp ordering.</p>
 <p align="center"><a href="https://shadabrice.pk/"><img src="./assets/view-website.svg" width="180" height="40" alt="View Shadab Rice website"></a></p>
 </td>
 <td width="50%">
-<a href="https://reeba.softcr8ors.com/">
 <img src="./assets/project-reeba.jpg" width="570" alt="Reeba Yaseen's actual portfolio website with its software services hero and contact interface.">
-</a>
 <p>Portfolio with an AI chatbot, enquiry collection and an admin panel for reviewing leads stored in Supabase.</p>
 <p align="center"><a href="https://reeba.softcr8ors.com/"><img src="./assets/view-website.svg" width="180" height="40" alt="View Reeba portfolio"></a></p>
 </td>
