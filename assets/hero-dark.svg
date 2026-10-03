@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Usama Faheem — frontend-focused MERN stack developer</title>
+<desc id="desc">A lime-accented developer workspace with a terminal, code editor and a frontend developer working on a laptop.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1110"/><stop offset="1" stop-color="#17251a"/></linearGradient>
+ <linearGradient id="lime" x2="1"><stop stop-color="#b7ef22"/><stop offset="1" stop-color="#d8ff55"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#c7f52b" opacity=".07"/></pattern>
+</defs>
+<rect width="1180" height="610" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1178" height="608" rx="21" fill="url(#grid)" stroke="#789d24" stroke-width="2"/>
+<circle cx="1070" cy="82" r="130" fill="#c7f52b" opacity=".07" filter="url(#glow)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <text x="42" y="48" fill="#c7f52b" font-size="13" letter-spacing="3">USAMAFAHEEM-DEV / PROFILE.README</text>
+ <text x="42" y="103" fill="#f2f7e8" font-size="43" font-weight="700">Frontend-focused</text>
+ <text x="42" y="151" fill="#c7f52b" font-size="43" font-weight="700">MERN Stack Developer</text>
+ <text x="44" y="187" fill="#b3c4b3" font-size="16">Designing responsive interfaces, practical APIs and interactive experiences.</text>
+ <rect x="42" y="226" width="346" height="254" rx="14" fill="#101b15" stroke="#567529"/>
+ <text x="63" y="258" fill="#c7f52b" font-size="12" letter-spacing="2">./workspace / current-build</text>
+ <path d="M63 283h240M63 309h274M63 335h207M63 361h251M63 387h180" stroke="#64815a" stroke-width="7" stroke-linecap="round" opacity=".7"/>
+ <path d="M63 420h125" stroke="#c7f52b" stroke-width="7" stroke-linecap="round"/>
+ <text x="63" y="452" fill="#91a793" font-size="13">npm run build</text><rect x="177" y="441" width="8" height="16" fill="#c7f52b"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+ <text x="42" y="535" fill="#f2f7e8" font-size="21" font-weight="600">React · Next.js · Node.js · Three.js</text>
+ <text x="42" y="566" fill="#91a793" font-size="14">Clean visuals. Smooth motion. Useful products.</text>
+ </g>
+<!-- developer at a laptop -->
+<g transform="translate(510 198)">
+ <ellipse cx="300" cy="344" rx="300" ry="45" fill="#000" opacity=".28"/>
+ <rect x="111" y="34" width="345" height="218" rx="16" fill="#dbe9d4" stroke="#c7f52b" stroke-width="3"/>
+ <rect x="128" y="53" width="311" height="179" rx="8" fill="#101b15"/>
+ <path d="M152 85h152M152 112h229M152 139h183M152 166h217M152 193h123" stroke="#587c45" stroke-width="8" stroke-linecap="round"/>
+ <path d="M152 85h84M152 139h105M152 193h58" stroke="#c7f52b" stroke-width="8" stroke-linecap="round"/>
+ <circle cx="153" cy="72" r="5" fill="#f0a26b"/><circle cx="172" cy="72" r="5" fill="#e7d36b"/><circle cx="191" cy="72" r="5" fill="#8ed8a0"/>
+ <path d="M62 253h445l35 23H28z" fill="#b8ccae" stroke="#c7f52b" stroke-width="3"/><path d="M28 276h514" stroke="#738d62" stroke-width="8"/>
+ <path d="M270 272h35" stroke="#789d24" stroke-width="3"/>
+ <!-- person -->
+ <path d="M256 143c-5-80 33-120 93-120 62 0 96 49 87 119l-17 71H276z" fill="#28332d"/>
+ <ellipse cx="350" cy="110" rx="69" ry="82" fill="#c88766"/><path d="M283 94c3-83 119-104 146-14-25-27-74-42-108-14z" fill="#1c211e"/><path d="M287 115c-4-28 15-55 39-65" stroke="#1c211e" stroke-width="15" stroke-linecap="round" fill="none"/>
+ <path d="M300 112h39M369 112h39M339 112h30" stroke="#dbe9d4" stroke-width="5" fill="none"/><circle cx="324" cy="114" r="5" fill="#1c211e"/><circle cx="386" cy="114" r="5" fill="#1c211e"/>
+ <path d="M328 150q25 16 48 0" stroke="#522d26" stroke-width="4" fill="none"/><path d="M275 207q76-44 151 0l70 54H211z" fill="#263d4a"/>
+ <path d="M258 246l-99 42M443 246l106 39" stroke="#c88766" stroke-width="27" stroke-linecap="round"/><path d="M159 288l-76 35M549 285l73 35" stroke="#263d4a" stroke-width="28" stroke-linecap="round"/>
+ <circle cx="82" cy="326" r="12" fill="#c88766"/><circle cx="622" cy="320" r="12" fill="#c88766"/>
+</g>
+<g fill="#c7f52b"><circle cx="1020" cy="535" r="4"><animate attributeName="cy" values="535;515;535" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="1050" cy="535" r="4"><animate attributeName="cy" values="515;535;515" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="1080" cy="535" r="4"><animate attributeName="cy" values="535;515;535" dur="2.3s" repeatCount="indefinite"/></circle></g>
+</svg>

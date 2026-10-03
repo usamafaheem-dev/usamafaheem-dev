@@ -1,14 +1,15 @@
+<a href="https://usamafaheem.com/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="1180" alt="Usama Faheem. Frontend-focused MERN Stack Developer. React, Next.js, interactive 3D and web apps.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.jpg">
+  <img src="./assets/hero-animated.gif" width="1180" alt="Usama Faheem, frontend-focused MERN stack developer. Lime editorial website hero with floating React and code badges. Click to visit my portfolio.">
 </picture>
+</a>
 
-<p align="center">
-  <a href="https://usamafaheem.com/"><img src="./assets/portfolio.svg" height="36" alt="Visit my portfolio"></a>
-  <a href="https://www.linkedin.com/in/usama-faheem/"><img src="./assets/linkedin.svg" height="36" alt="Connect on LinkedIn"></a>
-  <a href="mailto:developer@usamafaheem.com"><img src="./assets/email.svg" height="36" alt="Email Usama"></a>
-</p>
+<table align="center"><tr>
+  <td><a href="https://usamafaheem.com/"><img src="./assets/portfolio.svg" width="180" height="40" alt="Visit my portfolio"></a></td>
+  <td><a href="https://www.linkedin.com/in/usama-faheem/"><img src="./assets/linkedin.svg" width="180" height="40" alt="Connect on LinkedIn"></a></td>
+  <td><a href="mailto:developer@usamafaheem.com"><img src="./assets/email.svg" width="180" height="40" alt="Email Usama"></a></td>
+</tr></table>
 
 ## I build interfaces that look good and work well.
 
