@@ -1,10 +1,7 @@
 <a name="home"></a>
 
 <a href="https://githubherowebisteusama.vercel.app/">
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
-  <img src="./assets/hero-animated.gif" width="1180" alt="Usama Faheem, frontend-focused MERN stack developer. Rounded lime editorial hero with floating React and code badges.">
-</picture>
+
 </a>
 
 <p align="center">
