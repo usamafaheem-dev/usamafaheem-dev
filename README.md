@@ -42,8 +42,9 @@ I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakis
 <table>
 <tr>
 <td width="50%">
+  <img src="./assets/project-softcr8ors.jpg" width="570" alt="SoftCr8ors official company website, showing the actual pastel hero and service website design.">
 <a href="https://softcr8ors.com/">
-<img src="./assets/project-softcr8ors.jpg" width="570" alt="SoftCr8ors official company website, showing the actual pastel hero and service website design.">
+
 </a>
 <p>Company services website with responsive sections, 3D interactions and a contact API. Worked on loading speed and animation performance.</p>
 <p align="center"><a href="https://softcr8ors.com/"><img src="./assets/view-website.svg" width="180" height="40" alt="View SoftCr8ors website"></a></p>
