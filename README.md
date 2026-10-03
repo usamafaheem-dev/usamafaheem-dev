@@ -39,6 +39,8 @@ I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakis
 
 <a name="selected-work"></a>
 
+<!-- Project screenshots are intentionally static. Only the lime buttons below open websites. -->
+
 ## Selected work
 
 <table>
