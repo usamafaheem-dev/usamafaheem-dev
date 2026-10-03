@@ -1,21 +1,33 @@
-<a href="https://usamafaheem.com/">
+<a name="home"></a>
+
+<a href="https://githubherowebisteusama.vercel.app/">
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.jpg">
-  <img src="./assets/hero-animated.gif" width="1180" alt="Usama Faheem, frontend-focused MERN stack developer. Lime editorial website hero with floating React and code badges. Click to visit my portfolio.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
+  <img src="./assets/hero-animated.gif" width="1180" alt="Usama Faheem, frontend-focused MERN stack developer. Rounded lime editorial hero with floating React and code badges.">
 </picture>
 </a>
 
-<table align="center"><tr>
-  <td><a href="https://usamafaheem.com/"><img src="./assets/portfolio.svg" width="180" height="40" alt="Visit my portfolio"></a></td>
-  <td><a href="https://www.linkedin.com/in/usama-faheem/"><img src="./assets/linkedin.svg" width="180" height="40" alt="Connect on LinkedIn"></a></td>
-  <td><a href="mailto:developer@usamafaheem.com"><img src="./assets/email.svg" width="180" height="40" alt="Email Usama"></a></td>
-</tr></table>
+<p align="center">
+  <a href="https://usamafaheem.com/"><img src="./assets/portfolio.svg" width="180" height="40" alt="Visit my portfolio"></a>
+  <a href="https://www.linkedin.com/in/usama-faheem/"><img src="./assets/linkedin.svg" width="180" height="40" alt="Connect on LinkedIn"></a>
+  <a href="mailto:developer@usamafaheem.com"><img src="./assets/email.svg" width="180" height="40" alt="Email Usama"></a>
+</p>
+
+<a name="about"></a>
 
 ## I build interfaces that look good and work well.
 
 I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakistan. I build responsive websites, animated interfaces and practical web apps with React and Next.js. I also work on the APIs, databases and admin tools behind them.
 
 **Open to frontend developer roles and MERN stack internships.**
+
+<a name="services"></a>
+
+## What I build
+
+- Responsive websites and portfolios with React and Next.js.
+- Interactive interfaces with Framer Motion, Three.js and React Three Fiber.
+- MERN applications, REST APIs, admin panels and AI integration.
 
 ## My toolkit
 
@@ -27,37 +39,39 @@ I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakis
 
 <p align="center"><strong>Also:</strong> REST APIs · AI Integration · SEO · Accessibility · Cross-browser Compatibility · Performance Tuning</p>
 
+<a name="selected-work"></a>
+
 ## Selected work
 
 <table>
 <tr>
 <td width="50%">
 <a href="https://softcr8ors.com/">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-softcr8ors-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-softcr8ors-light.svg"><img src="./assets/project-softcr8ors-dark.svg" width="570" alt="SoftCr8ors official company website, Next.js, 3D interactions and an Express contact API."></picture>
+<img src="./assets/project-softcr8ors.jpg" width="570" alt="SoftCr8ors official company website, showing the actual pastel hero and service website design.">
 </a>
 <p>Company services website with responsive sections, 3D interactions and a contact API. Worked on loading speed and animation performance.</p>
-<a href="https://softcr8ors.com/">View website ↗</a>
+<p align="center"><a href="https://softcr8ors.com/"><img src="./assets/view-website.svg" width="180" height="40" alt="View SoftCr8ors website"></a></p>
 </td>
 <td width="50%">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-uk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-uk-light.svg"><img src="./assets/project-uk-dark.svg" width="570" alt="Three UK service websites: GM MZ Removals, MZ Cleaners and MZ Works."></picture>
+<img src="./assets/project-uk.jpg" width="570" alt="Three actual UK website designs: MZ Works, MZ Cleaners and GM MZ Removals.">
 <p>Responsive service and enquiry pages for three UK businesses. Worked on layout, browser compatibility and quote or callback flows.</p>
-<a href="https://gmmzremovals.co.uk/">GM MZ Removals ↗</a> · <a href="https://mzcleaners.co.uk/">MZ Cleaners ↗</a> · <a href="https://mzworks.co.uk/">MZ Works ↗</a>
+<p align="center"><a href="https://gmmzremovals.co.uk/"><img src="./assets/view-removals.svg" width="120" height="36" alt="GM MZ Removals"></a> <a href="https://mzcleaners.co.uk/"><img src="./assets/view-cleaners.svg" width="120" height="36" alt="MZ Cleaners"></a> <a href="https://mzworks.co.uk/"><img src="./assets/view-works.svg" width="120" height="36" alt="MZ Works"></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://shadabrice.pk/">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-rice-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-rice-light.svg"><img src="./assets/project-rice-dark.svg" width="570" alt="Shadab Rice, React e-commerce frontend with product browsing and WhatsApp ordering."></picture>
+<img src="./assets/project-rice.jpg" width="570" alt="Shadab Rice's actual product hero, shop navigation and WhatsApp ordering website.">
 </a>
 <p>React frontend built during my internship, with product pages, quantity selection, bundle offers and WhatsApp ordering.</p>
-<a href="https://shadabrice.pk/">View website ↗</a>
+<p align="center"><a href="https://shadabrice.pk/"><img src="./assets/view-website.svg" width="180" height="40" alt="View Shadab Rice website"></a></p>
 </td>
 <td width="50%">
 <a href="https://reeba.softcr8ors.com/">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-reeba-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-reeba-light.svg"><img src="./assets/project-reeba-dark.svg" width="570" alt="Reeba portfolio and lead management: AI chatbot, Supabase and admin panel."></picture>
+<img src="./assets/project-reeba.jpg" width="570" alt="Reeba Yaseen's actual portfolio website with its software services hero and contact interface.">
 </a>
 <p>Portfolio with an AI chatbot, enquiry collection and an admin panel for reviewing leads stored in Supabase.</p>
-<a href="https://reeba.softcr8ors.com/">View website ↗</a>
+<p align="center"><a href="https://reeba.softcr8ors.com/"><img src="./assets/view-website.svg" width="180" height="40" alt="View Reeba portfolio"></a></p>
 </td>
 </tr>
 </table>
@@ -81,9 +95,11 @@ I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakis
 
 <a href="https://github.com/usamafaheem-dev">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img src="./assets/contributions-dark.svg" width="1180" alt="Dated contribution heatmap. The card identifies its date range and data source.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg">
+  <img src="./assets/snake-light.svg" width="1180" alt="A lime snake travels across Usama's dated contribution grid, eats its cells and repeats. Based on the labelled public data snapshot, not a live game.">
 </picture>
 </a>
 
@@ -93,7 +109,7 @@ I'm **Usama Faheem**, a frontend-focused MERN stack developer from Lahore, Pakis
   <img src="./assets/commits-dark.svg" width="1180" alt="Five recent public authored commits with actual messages, short hashes, repositories and dates.">
 </picture>
 
-<p align="center"><a href="https://github.com/usamafaheem-dev?tab=repositories">Explore my repositories ↗</a> · <a href="https://github.com/search?q=author%3Ausamafaheem-dev&amp;type=commits">Browse my public commits ↗</a></p>
+<p align="center"><a href="https://github.com/usamafaheem-dev?tab=repositories"><img src="./assets/explore-repos.svg" width="220" height="40" alt="Explore my repositories"></a> <a href="https://github.com/search?q=author%3Ausamafaheem-dev&amp;type=commits"><img src="./assets/explore-commits.svg" width="220" height="40" alt="Browse my public commits"></a></p>
 
 <sub>Cards show dated public data and refresh daily when the included GitHub workflow is enabled. Indexed commits are year-to-date public search results, not an all-time or private commit total. Language bars count repositories by their primary language.</sub>
 
@@ -121,10 +137,16 @@ Built client interfaces, reusable components, API-connected pages and interactiv
 
 <br>
 
+<a name="contact"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/connect-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/connect-light.svg">
   <img src="./assets/connect-dark.svg" width="1180" alt="Let's build something useful. Portfolio: usamafaheem.com. Email: developer@usamafaheem.com.">
 </picture>
 
-<p align="center"><a href="https://usamafaheem.com/">Portfolio</a> · <a href="https://www.linkedin.com/in/usama-faheem/">LinkedIn</a> · <a href="mailto:developer@usamafaheem.com">Email</a></p>
+<p align="center">
+  <a href="https://usamafaheem.com/"><img src="./assets/portfolio.svg" width="180" height="40" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/usama-faheem/"><img src="./assets/linkedin.svg" width="180" height="40" alt="LinkedIn"></a>
+  <a href="mailto:developer@usamafaheem.com"><img src="./assets/email.svg" width="180" height="40" alt="Email me"></a>
+</p>

@@ -5,10 +5,16 @@ Open index.html in your browser to view the website.
 Home, About, Services and Contact switch within the same screen.
 The mobile menu opens from the round button in the top-right corner.
 The approved lime portrait is preserved as the main hero artwork.
+The hero has rounded corners. The three-line icon is hidden on desktop
+and remains available as the working mobile menu.
 
 To host the website, upload index.html, editorial.css, editorial.js,
 favicon.svg and the assets folder together to a static website host.
 Keep the filenames and the assets folder unchanged.
+
+For your existing Vercel deployment, replace the old website files with
+these files and push/redeploy. Keep your current Vercel project so the URL
+stays https://githubherowebisteusama.vercel.app/.
 
 This is a standalone website, not an interactive GitHub README.
 You can link to the hosted website from your GitHub profile.

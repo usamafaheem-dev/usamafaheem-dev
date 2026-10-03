@@ -20,6 +20,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python scripts/update_profile.py
+      - name: Generate contribution snake from refreshed public snapshot
+        run: python scripts/build_snake.py
       - name: Save refreshed cards
         run: |
           git config user.name "github-actions[bot]"
